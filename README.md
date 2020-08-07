@@ -101,30 +101,30 @@ The program accepts the following commands from the user:
  
  <h2>Sample Game Sample</h2>
  <p>
- Still don't know how to play? Here is a sample!
+  Still don't know how to play? Here is a sample! User input is <strong>bold</strong>.
  <br/>
  <br/>
  Thanks for jumping on the moped.  We're currently parked outside Dr. Rossinsky DDS's office at 10th St. and 5th Ave, facing South.  May I say your teeth look very clean.
   <br/>
  What would you like to do?  At any time, say "help" for assistance.  
    <br/>
-  back up
+  <strong>back up</strong>
    <br/>
   Now at 11th St. and 5th Ave, facing South.
    <br/>
-  back up
+   <strong>back up</strong>
    <br/>
   Now at 12th St. and 5th Ave, facing South.
    <br/>
-  go left
+   <strong>go left</strong>
    <br/>
   Now at 12th St. and 4th Ave, facing West.  Did you know The Strand has 18 Miles of new, used and rare books, and has been in business since 1927? 
    <br/>
-  how we doin'?
+   <strong>how we doin'?</strong>
    <br/>
   The gas tank is currently 85% full.
    <br/>
-  go to Bluestone Lane
+   <strong>go to Bluestone Lane</strong>
    <br/>
   Now at 12th St. and 5th Ave, facing West.
    <br/>
@@ -138,7 +138,7 @@ The program accepts the following commands from the user:
    <br/>
   Now at 8th St. and 4th Ave, facing South.  We have reached the Bluestone Lane.  Enjoy your cappuccino.
    <br/>
-  go left
+   <strong>go left</strong>
    <br/>
   ...etc...
    <br/>
